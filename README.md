@@ -7,7 +7,7 @@
 
 ## Activities
 
-### Part One: Implementing Different Coding Methods
+### **Part One:** Implementing Different Coding Methods
 
 - **Goal**: Implement various methods to transform input stimuli into spikes.
 
@@ -24,7 +24,7 @@
   - Compare the results from the different coding methods.
   - Discuss the differences between each method.
 
-### Park Two: Implementing Unsupervised Learning with STDP
+### **Part Two:** Implementing Unsupervised Learning with STDP
 
 - **Goal**: Implement the Spike-Timing-Dependent Plasticity (STDP) rule or a simplified version, Flat-STDP.
 
@@ -47,7 +47,7 @@
   - Add homeostasis mechanisms and compare the weight changes with the previous setup.
   - Experiment with different parameter values, repeat the process, and analyze how parameter variations affect learning outcomes.
 
-### Park Three: Implementing Reinforcement Learning with R-STDP
+### **Part Three:** Implementing Reinforcement Learning with R-STDP
 
 - **Goal**: Implement the Reward-modulated Spike-Timing-Dependent Plasticity (R-STDP) rule or a simplified version, Flat-R-STDP.
 
