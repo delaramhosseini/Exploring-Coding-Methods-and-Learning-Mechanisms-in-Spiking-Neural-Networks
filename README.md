@@ -66,7 +66,7 @@ An SNN-based robot navigating a maze can learn to make decisions (e.g., turning 
 ---
 
 
-## Objectives
+## Project Objectives
 1. **Familiarity with Information Coding Methods**: Understand different ways of encoding information and converting input stimuli into spikes.
 2. **Understanding Unsupervised and Reinforcement Learning**: Explore learning paradigms such as unsupervised learning and reinforcement learning.
 3. **Understanding Hebbian Learning (Hebb's Law)**: Gain insights into the Hebbian learning process.
