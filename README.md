@@ -7,7 +7,7 @@
 
 ## Activities
 
-### Park One: Implementing Different Coding Methods
+### Part One: Implementing Different Coding Methods
 
 - **Goal**: Implement various methods to transform input stimuli into spikes.
 
